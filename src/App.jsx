@@ -1,5 +1,6 @@
 import React from 'react';
-import PasswordChecker from './PasswordChecker';
+import PasswordChecker from './pages/PasswordChecker';
+import './App.css';
 
 export default function App() {
   return (
